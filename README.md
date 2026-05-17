@@ -44,10 +44,10 @@ based on their sepal and petal measurements.
 ---
 
 ## 📊 Model Results
-| Model           | Accuracy |
-|-----------------|----------|
-| | Random Forest   | 90.0% 🏆 |
 
+| Model | Accuracy |
+|---|---|
+| Random Forest 🏆 | 90%+ |
 ---
 
 ## ▶️ How to Run
