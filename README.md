@@ -60,4 +60,5 @@ based on their sepal and petal measurements.
 
 ## 📎 Links
 - 🔗 GitHub Repository: https://github.com/graciousgift/OIBSIP
+- 🎯 Live Demo: https://colab.research.google.com/drive/1EYvJYmvcRlUP2bvTtdTndkH8Jkgzxxrf?usp=sharing
 - 🏢 Oasis Infobyte: https://oasisinfobyte.com
