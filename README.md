@@ -1,6 +1,7 @@
 # OIBSIP
 Oasis Infobyte Data Science Internship Projects
 # 🌸 Iris Flower Classification — OASIS INFOBYTE Data Science Internship
+A beginner-friendly machine learning project that classifies Iris flower species using physical measurements. Built with Python and scikit-learn.
 
 ## 👤 Intern Details
 - **Name:** Gift Lawrence
@@ -10,55 +11,68 @@ Oasis Infobyte Data Science Internship Projects
 
 ---
 
-## 📌 Project Overview
-This project involves training a machine learning model to classify
-iris flowers into three species — Setosa, Versicolor, and Virginica —
-based on their sepal and petal measurements.
+.
+
+📌 Project Description
+The goal of this project is to train a classification model that can identify the species of an Iris flower — setosa, versicolor, or virginica — based on four measurements:
+
+Sepal Length (cm)
+Sepal Width (cm)
+Petal Length (cm)
+Petal Width (cm)
+
+The dataset contains 150 flowers (50 per species) with no missing values.
+.
+
+🚀 Live Demo
+Show Image
+
+Click the badge above to run the notebook instantly in your browser — no installation required.
+
 
 ---
 
-## 📂 Dataset
-- **File:** Iris.csv
-- **Samples:** 150 (50 per species)
-- **Features:** SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm
-- **Target:** Species (Iris-setosa, Iris-versicolor, Iris-virginica)
+.
 
----
 
-## 🛠️ Tools & Libraries Used
-- Python 3
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn (RandomForestClassifier)
-- Google Colab
+📁 Project Structure
+OIBSIP/
+│
+├── iris_classification_clean.ipynb   ← Main notebook (start here)
+├── Iris.csv                          ← Dataset
+└── README.md                         ← This file
 
----
+🛠️ Tools & Libraries
+ToolPurposePython 3.10Programming languagepandasData loading and manipulationnumpyNumerical operationsmatplotlib / seabornData visualisationscikit-learnMachine learning (Random Forest, evaluation)
 
-## 🔄 Project Pipeline
-1. Exploratory Data Analysis (EDA)
-2. Data Preprocessing (Label Encoding, Train/Test Split)
-3. Model Training (RandomForestClassifier)
-4. Model Evaluation (Accuracy, Confusion Matrix, Classification Report)
-5. Prediction on new flower sample
+📊 What the Notebook Covers
+StepDescription1Import libraries2Load dataset3Exploratory Data Analysis (pairplot, heatmap, boxplot)4Prepare data (encode labels, train/test split)5Train a Random Forest Classifier6Evaluate with accuracy score and classification report7Feature importance chart8Predict a new flower's species9Cross-validation for more reliable accuracy10Learning curve to detect overfitting/underfitting
 
----
+📈 Results
 
-## 📊 Model Results
+Test Accuracy: ~96–100% depending on split
+Cross-Validation Mean: consistent across all 5 folds
+Strongest features: PetalLengthCm and PetalWidthCm
+Hardest case: slight overlap between versicolor and virginica
 
-| Model | Accuracy |
-|---|---|
-| Random Forest 🏆 | 90%+ |
----
 
-## ▶️ How to Run
-1. Clone this repository
-2. Open `Gift_Lawrence_Task1.ipynb` in Google Colab
-3. Upload `Iris.csv` to the Colab session
-4. Run all cells from top to bottom
+▶️ How to Run Locally
+bash# 1. Clone this repository
+git clone https://github.com/graciousgift/OIBSIP.git
+cd OIBSIP
 
----
+# 2. Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn
 
+# 3. Launch the notebook
+jupyter notebook iris_classification_clean.ipynb
+Or just use the Colab badge above — no setup needed.
+
+🙋 About
+This project was completed as part of the OASIS Infobyte Internship Programme (Machine Learning Track).
+Author: Graciousgift
+GitHub: @graciousgift
 ## 📎 Links
 - 🔗 GitHub Repository: https://github.com/graciousgift/OIBSIP
-- 🎯 Live Demo: https://colab.research.google.com/drive/1EYvJYmvcRlUP2bvTtdTndkH8Jkgzxxrf?usp=sharing
+- 🎯 Live Demo: https://colab.research.google.com/drive/1YFALH4-svF4I2ylhTS4vrZK3kiO5biXe?usp=sharing
 - 🏢 Oasis Infobyte: https://oasisinfobyte.com
