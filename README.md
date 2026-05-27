@@ -47,7 +47,17 @@ OIBSIP/
 ToolPurposePython 3.10Programming languagepandasData loading and manipulationnumpyNumerical operationsmatplotlib / seabornData visualisationscikit-learnMachine learning (Random Forest, evaluation)
 
 📊 What the Notebook Covers
-StepDescription1Import libraries2Load dataset3Exploratory Data Analysis (pairplot, heatmap, boxplot)4Prepare data (encode labels, train/test split)5Train a Random Forest Classifier6Evaluate with accuracy score and classification report7Feature importance chart8Predict a new flower's species9Cross-validation for more reliable accuracy10Learning curve to detect overfitting/underfitting
+StepDescription
+1 Import libraries
+2 Load dataset and view data structure
+3 Exploratory Data Analysis (pairplot, heatmap, boxplot)
+4 Prepare data (encode labels, train/test split)
+5 Train a Random Forest Classifier
+6Evaluate with accuracy score and classification report
+7 Feature importance chart
+8 Predict a new flower's species
+9 Cross-validation for more reliable accuracy
+10 Learning curve to detect overfitting/underfitting
 
 📈 Results
 
