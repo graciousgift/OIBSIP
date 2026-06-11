@@ -97,37 +97,7 @@ GitHub: @graciousgift
 # 📉 Unemployment Analysis with Python
 ### OIBSIP Data Science Internship — Task 2
 
-Pre-lockdown avg
-
-7.1%
-
-Jan–Mar 2020
-
-Peak unemployment
-
-23.5%
-
-April 2020
-
-States analyzed
-
-28
-
-across India
-
-Dataset period
-
-2yr
-
-2019–2020
-
-National trend
-By state
-Employment vs participation
-Monthly unemployment rate — India (2019–2020)
-
-Unemployment rate (%)
-Lockdown period## 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes unemployment trends in India, with a particular focus on how the **COVID-19 pandemic and lockdown** dramatically impacted the unemployment rate across different states. Using Python's data analysis and visualization libraries, the notebook uncovers regional patterns, temporal trends, and the relationship between employment indicators.
 
