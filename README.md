@@ -97,15 +97,37 @@ GitHub: @graciousgift
 # 📉 Unemployment Analysis with Python
 ### OIBSIP Data Science Internship — Task 2
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)](https://matplotlib.org)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4c72b0)](https://seaborn.pydata.org)
+Pre-lockdown avg
 
----
+7.1%
 
-## 📌 Project Overview
+Jan–Mar 2020
+
+Peak unemployment
+
+23.5%
+
+April 2020
+
+States analyzed
+
+28
+
+across India
+
+Dataset period
+
+2yr
+
+2019–2020
+
+National trend
+By state
+Employment vs participation
+Monthly unemployment rate — India (2019–2020)
+
+Unemployment rate (%)
+Lockdown period## 📌 Project Overview
 
 This project analyzes unemployment trends in India, with a particular focus on how the **COVID-19 pandemic and lockdown** dramatically impacted the unemployment rate across different states. Using Python's data analysis and visualization libraries, the notebook uncovers regional patterns, temporal trends, and the relationship between employment indicators.
 
