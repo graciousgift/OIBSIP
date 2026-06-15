@@ -209,9 +209,9 @@ pip install pandas numpy matplotlib seaborn jupyter
 ---
 ## Visualization
 
-![National Unemployment Trend](Images/chart1_national_trend(1).png)
+![National Unemployment Trend](Images/chart1_national_trend_1.png)
 
-![COVID-19 Impact](Images/chart2_covid_impact(1).png)
+![COVID-19 Impact](Images/chart2_covid_impact_3.png)
 
 ![Top 10 States](Images/chart3_top10_states.png)
 
