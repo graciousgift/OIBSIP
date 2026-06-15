@@ -199,7 +199,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 ---
 
-## 📈 Sample Findings
+## 📈 Sample Findings/Results
 
 - 🔺 India's average unemployment rate **surged from ~7% to over 23%** during April 2020
 - 🌍 Urban areas experienced more severe unemployment spikes than rural counterparts
@@ -207,6 +207,9 @@ pip install pandas numpy matplotlib seaborn jupyter
 - ♻️ Recovery began in June 2020, though rates remained elevated above pre-COVID baselines
 
 ---
+## Visualization
+
+![Chart 1](Images/chart1_national_trend(1).png)
 
 ## 🤝 Acknowledgements
 
