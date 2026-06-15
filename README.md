@@ -209,7 +209,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 ---
 ## Visualization
 
-![Chart 1]([Images/chart1_national_trend(1).png](https://github.com/graciousgift/OIBSIP/blob/main/Images/chart1_national_trend%20(1).png))
+![Chart 1]([Images/chart1_national_trend%20(1).png]
 
 ## 🤝 Acknowledgements
 
